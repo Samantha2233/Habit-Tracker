@@ -1,0 +1,36 @@
+{
+  "habits": [
+    {
+      "habit": {
+        "id": 1,
+        "name": "Water plants",
+        "completed": true,
+        "repition": [
+          "su",
+          "wed",
+          "fri"
+        ],
+        "streak": 0,
+        "totalCompleted": 0
+      },
+      "id": 1
+    },
+    {
+      "habit": {
+        "id": 2,
+        "name": "Clean Leo's litter box",
+        "completed": false,
+        "repition": "everyday",
+        "streak": 0,
+        "totalCompleted": 0
+      },
+      "id": 2
+    },
+    {
+      "obj": {
+        "completed": true
+      },
+      "id": 3
+    }
+  ]
+}
